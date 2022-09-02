@@ -53,23 +53,23 @@ global.snh = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
 
 /*============== PAYMENT ==============*/
 global.pdana = '083820606259'
-global.povo = '089515023118'
+global.povo = '-'
 global.pgopay = '083821057242'
 global.ppulsa = '083820606259'
 global.ppulsa2 = '083821057242'
 global.psaweria = 'https://saweria.com/DonateBot'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288971599824'
+global.nomorbot = '6288973365782'
 global.nomorown = '6283820606259'
-global.namebot = 'NuyyBotz-Md'
-global.nameown = 'Nuyy Canci'
+global.namebot = 'Purply Botz'
+global.nameown = 'Own Purply'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['6283820606259', 'Sewa Bot', true],
-  ['6283820606259', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['6283820606259', 'Own Purply', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,13 +114,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 NuyyBotz-Md 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Nuyybotz-Md ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Nuyybotz-Md '
+global.wm = '                「 PurplyBotz 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘PurplyBotz ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ PurplyBotz '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ WhatsApp Bot | By Nuyy Canci`
-global.author = '                「 NuyyBotz - Md  あ⁩ 」'
+global.author = '                「 Purply Botz  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
@@ -188,7 +188,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Nuyybotz-Md'
+global.stickpack = 'Purply Botz'
 global.stickauth = `By ©NuyyCanci`
 
 global.multiplier = 38 // The higher, The harder levelup
